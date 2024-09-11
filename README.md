@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @crocodile27e
 - 👀 I’m interested in money
-- 🌱 I’m currently learning nothing
+- 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me dont 
 
